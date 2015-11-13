@@ -160,7 +160,7 @@
 ##校：
 
 此段庚辰本有較完整之論述。
-[附1-第一回校對](fu1_diyihuixiaodui.md)
+[附1-第一回校對](fu1-diyihuixiaodui.md)
 
 ##析：
 此段對通俗小說嚴詞針砭。
